@@ -1,0 +1,16 @@
+{
+    "name": "Zenject",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c14aa0cb6c0e3994385e96ec1df827e9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
